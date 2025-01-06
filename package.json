@@ -42,7 +42,7 @@
     "string-argv": "0.3.2"
   },
   "devDependencies": {
-    "@types/node": "16.18.38",
+    "@types/node": "22.10.2",
     "@types/jest": "29.5.4",
     "@types/unzipper": "0.10.6",
     "@typescript-eslint/parser": "6.4.1",
